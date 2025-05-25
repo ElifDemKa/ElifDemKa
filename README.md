@@ -5,4 +5,4 @@ I am open to continuous learning, solution-oriented, and pay attention to detail
 
 
 Email: elif.demircikav@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/elif-demirci-kavlak-44200433a) 
+🔗 [LinkedIn](https://www.linkedin.com/in/elif-demirci-kavlak-44200433a/) 
