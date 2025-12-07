@@ -13,7 +13,6 @@ Email: elif.demircikav@gmail.com
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="Java" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" height="30" alt="Selenium" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appium/appium-original-wordmark.svg" height="30" alt="Appium" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" height="30" alt="Playwright" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="30" alt="Postman" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
@@ -21,5 +20,7 @@ Email: elif.demircikav@gmail.com
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins" />
+  <img src="./assets/icons/appium.svg" height="30" alt="Appium" />
+
 </p>
 
